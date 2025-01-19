@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Afif! 👋  
 
-<!--
-**afifshowfeer/afifshowfeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **BTech Student in Computer Science**  
+🔍 Passionate about technology, software development, and solving real-world problems (or at least trying to convince bugs to cooperate).  
+📱 Currently exploring app and web development with **Flutter**, **HTML**, **CSS**, and **JavaScript**—basically, anything that makes the screen come alive.  
+🛠 Interested in **ethical hacking**  **algorithms**, and building solutions that are as user-friendly .
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:  
+- **Languages:** Java, C, Python, SQL .  
+- **Frameworks & Tools:** Flutter, Swing .  
+- **Web Technologies:** HTML, CSS, JavaScript .  
+
+---
+
+🌱 Always learning, growing, and open to collaborating on exciting projects (or just brainstorming over coffee ☕).  
+📩 Feel free to reach out—I'm always up for some nerdy tech talk or debugging existential crises!
