@@ -22,7 +22,7 @@
 - 🎓 **3rd Year Computer Science** student  
 - 🌱 Currently diving deep into **MERN stack** (MongoDB + Express.js + React + Node.js)  
 - 💻 Previously worked with **Java (Swing)**, **C**, **Python**, **SQL**, and **Flutter**  
-- 🚀 Passionate about building full-stack web apps, learning startup culture, and contributing to **IEDC** projects  
+- 🚀 Passionate about building full-stack web apps 
 - 🎯 Goal: Turn ideas into real products — one commit at a time!
 
 <br/>
