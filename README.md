@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack:  
 - **Languages:** Java, C, Python, SQL .  
 - **Frameworks & Tools:** Flutter, Swing .  
-- **Web Technologies:** HTML, CSS, JavaScript .  
+- **Web Technologies:** MERN.  
 
 ---
 
