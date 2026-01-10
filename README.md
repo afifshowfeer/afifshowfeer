@@ -15,4 +15,4 @@
 ---
 
 🌱 Always learning, growing, and open to collaborating on exciting projects (or just brainstorming over coffee ☕).  
-📩 Feel free to reach out—I'm always up for some nerdy tech talk or debugging existential crises!
+
