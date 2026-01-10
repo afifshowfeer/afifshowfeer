@@ -14,5 +14,5 @@
 
 ---
 
-🌱 Always learning, growing, and open to collaborating on exciting projects (or just brainstorming over coffee ☕).  
+🌱 Always learning, growing, and open to collaborating on exciting projects .
 
