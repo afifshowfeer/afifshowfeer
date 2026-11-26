@@ -32,7 +32,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech Computer Science** student at **Mar Baselios College of Engineering and Technology**
-- 🤝 Open-source contributor intern at **[µLearn](https://mulearn.org/)**, working on its Django backend
+- 🤝 Backend Developer Intern at **[µLearn](https://mulearn.org/)**, working on its Django backend
 - 🌐 Building full-stack apps with the **MERN stack** — JWT auth, role-based access, REST APIs, deployed on Vercel + Render + MongoDB Atlas
 - 🧩 Sharpening problem-solving on **LeetCode** and **NeetCode**
 - 💻 Also worked with **Java (Swing)**, **C**, **Python**, **SQL**, and **Flutter**
@@ -43,7 +43,7 @@
 
 ### 🌟 Featured Contributions
 
-#### 🎓 [µLearn Backend](https://github.com/gtech-mulearn/mulearnbackend) — Open-Source Contributor Intern
+#### 🎓 [µLearn Backend](https://github.com/gtech-mulearn/mulearnbackend) — Backend Developer Intern
 Backend for [mulearn.org](https://mulearn.org/), a peer-learning community platform · `Python` `Django REST Framework`
 - 🔔 Built the in-app **notification system**
 - 🧑‍💼 Worked on the **intern module** — timesheets and monthly reviews
