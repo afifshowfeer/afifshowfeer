@@ -51,6 +51,13 @@ Backend for [mulearn.org](https://mulearn.org/), a peer-learning community platf
 - 📅 Improved **events** — search and sorting
 - 🛠️ Various API features and bug fixes
 
+#### 💡 [Catalyst Web](https://github.com/thecatalystiedcmbcet/Catalyst-Web) · [Live](https://catalyst-web-dev.vercel.app)
+Official website of Catalyst, the Innovation and Entrepreneurship Development Centre (IEDC) at MBCET · `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
+- 🛡️ Built the **admin panel** — manage members, roles, achievements, events and logs
+- 🏆 Built the **achievements page**
+- ✅ Added form validation across the admin forms
+- 🐛 Fixed build and deployment issues, and cleaned up the codebase
+
 #### 🚁 [Autonomous Traffic Violation Detection & Urban Planning System](https://github.com/afifshowfeer/main-project) — final-year team project
 UAV aerial footage + digital twin for traffic violation detection · `Python` `YOLO` `BoT-SORT` `CARLA` `FastAPI` `React`
 - 🎯 **BoT-SORT tracking pipeline** with tracklet stitching, plus YOLO / YOLO-OBB fine-tuning and dataset prep ([PR #1](https://github.com/DevWithPranav/main-project/pull/1))
@@ -82,11 +89,11 @@ Controller rumble that follows engine RPM in Euro Truck Simulator 2 & American T
 ### 🛠️ Tech Stack
 
 ```text
-Frontend ────────►  React • Tailwind CSS • Material-UI • shadcn/ui • Vite
+Frontend ────────►  React • Next.js • Tailwind CSS • Material-UI • shadcn/ui • Vite
 Backend  ────────►  Node.js • Express.js • Django REST Framework • FastAPI • JWT
 ML / CV  ────────►  YOLO • BoT-SORT • CARLA Simulator
 IoT      ────────►  ESP32 • AWS IoT Core • MQTT • AWS Lambda
-Database ────────►  MongoDB (Mongoose, Atlas) • SQL
+Database ────────►  MongoDB (Mongoose, Atlas) • Supabase • SQL
 Mobile   ────────►  Flutter
 Languages────────►  JavaScript • TypeScript • Python • C++ • Java • C • SQL
 Tools    ────────►  Git • VS Code • Postman • Vercel • Render
